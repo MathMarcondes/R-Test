@@ -1,0 +1,6 @@
+a <- c(10, 42, 60, 41, 53, 64, 75)
+median(a)
+mean(a)
+barplot(a)
+summary(a)
+boxplot(a)
